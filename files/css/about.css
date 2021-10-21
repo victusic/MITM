@@ -1,0 +1,82 @@
+.content_about{
+	position: relative;
+	width: 100%;
+	height: 2040px;
+	display: flex;
+	justify-content: center;
+}
+
+.centralization_about{
+	position: relative;
+	width: 1140px;
+	height: 2040px;
+}
+
+.razdel_line{
+	position: relative;
+	width: 100%;
+	height: 15px;
+}
+
+.txt_tower{
+	width: 1140px;
+	height: 250px;
+}
+.dop_style1{
+	position: relative;
+	top: 130px;
+	width: 100%;
+	height: 21px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 16px;
+	color: white;
+}
+.dop_style2{
+	position: relative;
+	top: 40px;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 28px;
+	color: #f1c50e;
+}
+.yellow_line{
+	position: relative;
+	left: 270px;
+	top: 120px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+.tower2{
+	width: 1140px;
+	height: 70px;
+}
+.yellow_line2{
+	position: relative;
+	left: 270px;
+	top: 25px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+
+.text11{
+	height: 200px;
+}
+.text12{
+	height: 460px;
+}
+.text13{
+	height: 100px;
+}
+.text14{
+	height: 340px;
+}
+.text15{
+	height: 145px;
+}

@@ -1,0 +1,148 @@
+.content_corruption{
+	position: relative;
+	width: 100%;
+	height: 2415px;
+	display: flex;
+	justify-content: center;
+}
+
+.centralization_corruption{
+	position: relative;
+	/*background-color: rgb(200, 200, 200);*/
+	width: 1140px;
+	height: 2415px;
+}
+
+.dop_style4{
+	position: relative;
+	/*background-color: pink;*/
+	width: 100%;
+	height: 60px;
+	font-family: "Arial";
+	font-size: 48px;
+	color: #474550;
+	text-align: center;
+}
+.dop_style5{
+	position: relative;
+	/*background-color: blue;*/
+	width: 100%;
+	height: 50px;
+	font-family: "Arial";
+	font-size: 16px;
+	color: #474550;
+	text-align: center;
+}
+
+.txt_tower{
+	width: 1140px;
+	height: 250px;
+}
+.dop_style1{
+	position: relative;
+	left: 360px;
+	top: 40px;
+	width: 420px;
+	height: 21px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 16px;
+	color: #f1c50e;
+}
+.dop_style2{
+	position: relative;
+	top: 95px;
+	left: 360px;
+	width: 420px;
+	height: 50px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 28px;
+	color: white;
+}
+.yellow_line{
+	position: relative;
+	left: 470px;
+	top: 120px;
+	width: 200px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+.razdel_line{
+	position: relative;
+	width: 100%;
+	height: 15px;
+}
+
+.block_tower{
+	position: relative;
+	width: 1140px;
+	height: 610px;
+}
+.tower_line{
+	position: absolute;
+	width: 367px;
+	height: 610px;
+	background-color: #634491;
+}
+.st_img{
+	position: relative;
+	top: 30px;
+	left: 30px;
+	width: 307px;
+	height: 410px;
+}
+
+.st_txt{
+	position: relative;
+	top: 50px;
+	left: 30px;
+	width: 307px;
+	height: 75px;
+	font-family: "Coolsville";
+	font-size: 18px;
+	color: black;
+}
+.st_btn{
+	position: relative;
+	top: 50px;
+	left: 30px;
+	width: 130px;
+	height: 45px;
+	background-color: #f1c50e;;
+	font-family: "century gothic";
+	font-size: 16px;
+	color: #468279;
+	text-align: center;
+	border: none;
+}
+.st_btn:hover{
+	background-color: #d9b10d;
+}
+
+.tower2{
+	width: 1140px;
+	height: 70px;
+}
+.yellow_line2{
+	position: relative;
+	left: 270px;
+	top: 25px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+.text81{
+	height: 440px;
+}
+.text82{
+	height: 650px;
+}
+.text83{
+	height: 300px;
+}
+.text84{
+	height: 600px;
+}

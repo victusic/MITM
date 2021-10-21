@@ -1,0 +1,73 @@
+.content_international{
+	position: relative;
+	width: 100%;
+	height: 1910px;
+	display: flex;
+	justify-content: center;
+}
+
+.centralization_international{
+	position: relative;
+	width: 1140px;
+	height: 1910px;
+}
+
+.txt_tower{
+	width: 1140px;
+	height: 250px;
+}
+
+.dop_style1{
+	position: relative;
+	top: 130px;
+	width: 100%;
+	height: 21px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 16px;
+	color: white;
+}
+.dop_style2{
+	position: relative;
+	top: 40px;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 28px;
+	color: #f1c50e;
+}
+.yellow_line{
+	position: relative;
+	left: 270px;
+	top: 120px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+.razdel_line{
+	position: relative;
+	width: 100%;
+	height: 15px;
+}
+
+.text41{
+	height: 1150px;
+}
+.text42{
+	height: 260px;
+}
+
+.tower2{
+	width: 1140px;
+	height: 100px;
+}
+.yellow_line2{
+	position: relative;
+	left: 270px;
+	top: 40px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}

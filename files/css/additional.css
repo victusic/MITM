@@ -1,0 +1,108 @@
+.content_additional{
+	position: relative;
+	width: 100%;
+	height: 3110px;
+	display: flex;
+	justify-content: center;
+}
+
+.centralization_additional{
+	position: relative;
+	width: 1140px;
+	height: 3110px;
+}
+
+.txt_tower{
+	width: 1140px;
+	height: 250px;
+}
+
+.dop_style1{
+	position: relative;
+	top: 130px;
+	width: 100%;
+	height: 21px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 16px;
+	color: white;
+}
+.dop_style2{
+	position: relative;
+	top: 40px;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 28px;
+	color: #f1c50e;
+}
+.yellow_line{
+	position: relative;
+	left: 270px;
+	top: 120px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+.razdel_line{
+	position: relative;
+	width: 100%;
+	height: 15px;
+}
+
+.tower2{
+	width: 1140px;
+	height: 70px;
+}
+.yellow_line2{
+	position: relative;
+	left: 270px;
+	top: 25px;
+	width: 600px;
+	height: 5px;
+	background-color: #f1c50e;
+}
+
+.pod_txt_tower{
+	position: relative;
+	width: 1140px;
+	height: 125px;
+}
+
+.dop_style3{
+	position: relative;
+	top: 60px;
+	width: 1140px;
+	height: 21px;
+	text-align: center;
+	font-family: "Web font";
+	font-size: 14px;
+	color: white;
+}
+
+.yellow_line3{
+	position: relative;
+	left: 470px;
+	top: 70px;
+	width: 200px;
+	height: 3px;
+	background-color: #f1c50e;
+}
+
+.text51{
+	height: 50px;
+}
+.text52{
+	height: 2120px;
+}
+.text53{
+	height: 150px;
+}
+.text54{
+	height: 20px;
+}
+.text55{
+	height: 80px;
+}
